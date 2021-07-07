@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @Eonjobson
-- 👀 I’m interested in mathematics,computer science,algorithms and the latest in tech.
+- 👀 I’m interested in mathematics,computer science,algorithms,research and tech.
 - 🌱 I’m currently learning dsa,blockchain and deep learning.
 - 💞️ I’m looking to collaborate on innovative solutions to everyday problems
-- 📫 How to reach me 
+- 📫 How to reach me email_id :r.joshi0410@gmail.com
 
 <!---
 Eonjobson/Eonjobson is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
