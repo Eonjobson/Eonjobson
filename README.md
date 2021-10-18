@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Eonjobson
+- 👋 Hi, I’m @Rohin Joshi
 - 👀 I’m interested in mathematics,computer science,algorithms,research and tech.
 - 🌱 I’m currently learning dsa,blockchain,deep learning and web dev.
 - 💞️ I’m looking to collaborate on innovative solutions to everyday problems
